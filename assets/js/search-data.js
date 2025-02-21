@@ -437,12 +437,10 @@ ninja.data = [{
           section: "News",},{id: "news-i-officially-received-my-ph-d-in-engineering-from-xi-an-jiaotong-university",
           title: 'I officially received my Ph.D. in Engineering from Xi’an Jiaotong University!',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-my-paper-entitled-dynamic-fuzzy-sampler-for-graph-neural-networks-was-accepted-by-ieee-transactions-on-fuzzy-system-sci-region-i-impact-factor-10-7-ccfb-this-is-the-first-innovative-work-that-combines-fuzzy-system-and-graph-sampling",
+          title: 'My paper entitled “Dynamic Fuzzy Sampler for Graph Neural Networks” was accepted by...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
