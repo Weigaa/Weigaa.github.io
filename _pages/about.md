@@ -4,7 +4,7 @@ title: about
 permalink: /
 profile:
   align: right
-  image: WechatIMG16225.jpg
+  image: 大图.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>weijia4473 AT gmail.com</p>
