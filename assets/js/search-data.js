@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-my-accepted-paper-fastensor-by-acm-taco-ccf-a-journal-was-formally-presented-at-the-hipeac-conference-ccf-b-sparkles-smile",
+          title: 'My accepted paper Fastensor by ACM TACO (CCF A Journal) was formally presented...',
           description: "",
           section: "News",},{id: "news-i-officially-received-my-ph-d-in-engineering-from-xi-an-jiaotong-university",
           title: 'I officially received my Ph.D. in Engineering from Xi’an Jiaotong University!',
