@@ -30,7 +30,9 @@ Contacts: weijia4473 AT gmail.com
 
 **Jia Wei is available on the job market now.**
 
-Jia Wei received his PhD on Dec. 2024, from the School of Computer Science and Technology, Xi'an Jiaotong University, under the supervision of Prof. Xingjun Zhang (Dean). Jia Wei has worked closely with IEEE Fellow Witold Pedrycz as a visiting scholar at the University of Alberta, Canada. Jia Wei's current research interests focus on optimizing the training and inference performance of frontier large models (e.g., Deepseek r1 and kimi v1.5), with an emphasis on machine learning systems, deep learning, graph neural networks, and data transfer optimization. His research results provide a comprehensive overview of his research topics, honors, and awards. His academic contributions are listed in the “Publications” section, and his open source work can be browsed through the “Projects and Resources Library”. Jia Wei's personal homepage is still a work in progress.
+Jia Wei received his PhD on Dec. 2024, from the School of Computer Science and Technology, Xi'an Jiaotong University, under the supervision of Prof. Xingjun Zhang (Dean). Jia Wei has worked closely with IEEE Fellow Witold Pedrycz as a visiting scholar at the University of Alberta, Canada. Jia Wei's current research interests focus on optimizing the training and inference performance of frontier large models (e.g., Deepseek r1 and kimi v1.5), with an emphasis on machine learning systems, deep learning, graph neural networks, and data transfer optimization. His research results provide a comprehensive overview of his research topics, honors, and awards. His academic contributions are listed in the “Publications” section, and his open source work can be browsed through the “Projects and Resources Library”. 
+
+Jia Wei's personal homepage is still a work in progress.
 
 <!-- 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You #can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` #folder.
