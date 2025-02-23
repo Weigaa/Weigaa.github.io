@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+My current plan is to become a postdoctoral researcher. Therefore, I do not have a course schedule at this time. However, according to my personal plan, I will teach the following courses after I get a full faculty position:
 
-Organize your courses by years, topics, or universities, however you like!
+1. Machine learning systems.
+   
+2. Large Language Modeling Post-training and Fine-tuning.
+
+3. Deep Learning Performance Optimization.
