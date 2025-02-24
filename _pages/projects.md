@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: I'm working hard on getting FUNDING for my projects, and once I find it, I'll post the projects here.A growing collection of your cool projects.
+description: I'm working hard on getting FUNDING for my projects, and once I find it, I'll post the projects here.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
