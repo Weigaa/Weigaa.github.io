@@ -1,59 +1,47 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Jia Wei",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "weijia4473@gmail.com",
+    "phone": "+86 15235339399",
+    "url": "https://https://weigaa.github.io",
+    "summary": "A hard-working researcher of AI systems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Coming soon.",
+      "postalCode": "Coming soon.",
+      "city": "Coming soon.",
+      "countryCode": "China",
+      "region": "Coming soon."
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Coming soon.",
+        "username": "Coming soon.",
+        "url": "Coming soon."
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Coming soon.",
+      "position": "Coming soon.",
+      "url": "Coming soon.",
+      "startDate": "Coming soon.",
+      "endDate": "Coming soon.",
+      "summary": "Coming soon.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Xi'an Jiaotong University, Xi'an, China",
+      "location": "Xi'an, China",
+      "url": "https://www.xjtu.edu.cn/",
+      "area": "Computer System",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2021-03-01",
+      "endDate": "2024-12-21",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
