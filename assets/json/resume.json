@@ -106,12 +106,12 @@
   ],
     "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Democratization Frontier Large Language Model",
+      "summary": "This topic focuses on how to apply joint algorithmic-level (model pruning and quantization, etc.) and system-level (automatic parallelism and dynamic data transfer, etc.) optimizations to achieve the deployment of large language models on low-cost infrastructures.",
+      "highlights": ["I AM LOOKING FOR FUNDINGS ON THIS PROPOSAL","Machine Learning Ssytem", "Algorithm-Architecture Joint Optimization"],
+      "startDate": "2025",
+      "endDate": "",
+      "url": "https://arxiv.org/abs/2407.00005"
     }
   ]
 }
